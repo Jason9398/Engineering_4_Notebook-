@@ -1,5 +1,4 @@
 # Engineering_4_Notebook
-This repository will help you get started with your own readme.  Use it as a template for your assignments.
 
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
