@@ -53,7 +53,11 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
+[The text I want you to click](raspberry-pi/temp.py)
+
 
 ### Test Image
+![Turtle](images/turtle-eats-strawberry.png)
 
 ### Test GIF
+![Yoda](images/yoda.gif)
