@@ -1,9 +1,34 @@
 # Engineering_4_Notebook
 
 ## Table of Contents
+* [Launch_Pad_Part_1](#Launch_Pad_Part_1)
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 ---
+
+## Launch_Pad_Part_1
+
+### Assignment Description
+
+This is the first assignment in a series where I build a simulated launch pad. In this section, I am writing script to count down from 10 second to liftoff. 
+
+### Evidence 
+
+![Countdown](images/countdownpt1.gif)
+
+### Wiring
+
+N/A
+
+### Code.
+[Link to code](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). 
+
+### Reflection
+
+At first I had a hard time remembering the differences between the types of loops. A while loop runs until the condition is not longer satisfied, while a for loop runs for loop runs a specific number of times. A for loop was appropriate in this case, as I am always counting down from 10. I also had to look up the syntax for using the range function in a for loop. After some googling, I re-learned that the order is as follows: range(starting number, ending number, increment amount). 
+
+&nbsp;
+
 
 ## Raspberry_Pi_Assignment_Template
 
