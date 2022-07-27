@@ -14,7 +14,7 @@ This is the first assignment in a series where I build a simulated launch pad. I
 
 ### Evidence 
 
-![Countdown](images/countdownpt1.gif)
+![Countdown](images/launch%20pad%20count%20down.gif)
 
 ### Wiring
 
