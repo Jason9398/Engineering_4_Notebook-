@@ -10,7 +10,7 @@
 
 ### Assignment Description
 
-This is the first assignment in a series where I build a simulated launch pad. In this section, I am writing script to count down from 10 second to liftoff. 
+This is the first assignment in a series where I build a simulated launch pad. In this section, I wrote a script to count down from 10 second to liftoff. 
 
 ### Evidence 
 
