@@ -35,7 +35,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. If any aspect of the assignment included wiring, insert the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. If any aspect of the assignment included wiring, also include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 ### Code.
 
