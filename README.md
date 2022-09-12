@@ -14,9 +14,8 @@ This is the first assignment in a series where I build a simulated launch pad. I
 
 ### Evidence 
 
-![Countdown](images/launch%20pad%20count%20down.gif)
-Wiring was not necessary for this assignment.
-
+![Countdown[Wokwi Arduino and ESP32 Simulator - Google Chrome 2022-09-09 13-53-57.zip](https://github.com/millerm22/Engineering_4_Notebook-/files/9550425/Wokwi.Arduino.and.ESP32.Simulator.-.Google.Chrome.2022-09-09.13-53-57.zip)
+]
 ### Code.
 [Link to code](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). 
 
